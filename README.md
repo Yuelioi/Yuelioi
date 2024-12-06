@@ -22,7 +22,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yuelioi&theme=transparent&hide_border=true&langs_count=10&range=all_time" />
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuelioi&theme=transparent&hide_border=true&layout=compact&layout=donut-vertical&langs_count=6&range=all_time" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuelioi&theme=transparent&hide_border=true&layout=compact&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=go,py,css,ts,vue,ae,blender&theme=light" />
