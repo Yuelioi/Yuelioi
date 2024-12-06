@@ -31,7 +31,7 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/Yuelioi"><img src="https://img.shields.io/badge/GitHub-Yuelioi-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-月离离离离-red?logo=bilibili" /></a>
+<a href="https://space.bilibili.com/4279370"><img src="https://img.shields.io/badge/哔哩哔哩-月离离离离-red?logo=bilibili" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Yuelioi&abbreviated=true&color=yellow" />
 </p>
