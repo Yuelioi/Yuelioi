@@ -4,9 +4,8 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20profile%20page!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-<img
-  src="https://raw.githubusercontent.com/Yuelioi/Yuelioi/output/snake.svg"
-  alt="Snake animation" />
+
+
 
 <p align="center">
   <img
@@ -32,7 +31,11 @@
   <img
     src="https://komarev.com/ghpvc/?username=Yuelioi&abbreviated=true&color=yellow" />
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuelioi/Yuelioi/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuelioi/Yuelioi/output/snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
