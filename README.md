@@ -31,12 +31,13 @@
   <img
     src="https://komarev.com/ghpvc/?username=Yuelioi&abbreviated=true&color=yellow" />
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuelioi/Yuelioi/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuelioi/Yuelioi/output/snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+<p align="center">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuelioi/Yuelioi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuelioi/Yuelioi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Yuelioi/Yuelioi/output/github-snake.svg" />
 </picture>
-
+</p>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
