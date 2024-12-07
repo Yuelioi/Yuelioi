@@ -19,7 +19,7 @@
 <br/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yuelioi&theme=transparent&hide_border=true&langs_count=10&range=all_time" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Yuelioi&theme=transparent&hide_border=true&langs_count=10&range=all_time" />
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuelioi&exclude_repo=Program-Learning&theme=transparent&hide_border=true&hide=cpp&layout=compact&langs_count=10" />
