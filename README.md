@@ -43,15 +43,15 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Yuelioi&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=Yuelioi&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<!--<img align="center" width="400" src="https://streak-stats.demolab.com?user=Yuelioi&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />-->
 <br/>
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Yuelioi&theme=transparent&hide_border=true&langs_count=10&range=all_time&a&hide=ohter,html,json,tsconfig" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Yuelioi&theme=transparent&hide_border=true&langs_count=6&range=all_time&a&hide=ohter,html,json,tsconfig" />
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuelioi&exclude_repo=Program-Learning&theme=transparent&hide_border=true&hide=cpp&layout=compact&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuelioi&exclude_repo=Program-Learning&theme=transparent&hide_border=true&hide=c%2B%2B&layout=compact&langs_count=10&count_private=true" />
 <br/>
 
 </p>
