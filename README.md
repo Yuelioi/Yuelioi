@@ -14,7 +14,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://skillicons.dev/icons?i=go,py,ts&theme=light" />
+    src="https://skillicons.dev/icons?i=go,rust,vue,astro,py,ts&theme=light" />
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
