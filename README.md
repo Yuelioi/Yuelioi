@@ -1,7 +1,7 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=header&text=Welcome&fontSize=90&fontAlign=50&fontAlignY=30&desc=%E6%B8%85%E9%9B%AA%E9%86%92%E5%AD%A4%E6%9C%88%EF%BC%8C%E8%BF%9F%E6%9A%AE%E9%86%89%E4%BA%BA%E7%A6%BB&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:164E83,50:087DA8,100:0AA7B5&fontColor=FFFFFF&height=320&&section=header&text=Welcome&fontFamily=Segoe%20UI%2CKaiTi%2CSTKaiti%2Cserif&fontSize=90&fontAlign=50&fontAlignY=30&desc=%E6%B8%85%E9%9B%AA%E9%86%92%E5%AD%A4%E6%9C%88%EF%BC%8C%E8%BF%9F%E6%9A%AE%E9%86%89%E4%BA%BA%E7%A6%BB&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 
