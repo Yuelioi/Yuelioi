@@ -29,7 +29,7 @@
   </a>
   <!-- https://github.com/antonkomarev/github-profile-views-counter -->
   <img
-    src="https://komarev.com/ghpvc/?username=Yuelioi&abbreviated=true&color=yellow" />
+    src="https://komarev.com/ghpvc/?username=Yuelioi&abbreviated=true&color=41b883" />
 </p>
 <p align="center">
 <picture align="center">
