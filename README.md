@@ -31,18 +31,18 @@
   <img
     src="https://komarev.com/ghpvc/?username=Yuelioi&abbreviated=true&color=yellow" />
 </p>
-<!-- 3D contributions: https://github.com/yoshi389111/github-profile-3d-contrib -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="月离的年度贡献城市" />
-  </picture>
-</p>
-
 <p align="center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuelioi/Yuelioi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuelioi/Yuelioi/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Yuelioi/Yuelioi/output/github-snake.svg" />
 </picture>
+</p>
+
+<!-- 3D contributions: https://github.com/yoshi389111/github-profile-3d-contrib -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="月离的年度贡献城市" />
+  </picture>
 </p>
